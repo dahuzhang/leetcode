@@ -8,12 +8,12 @@ tags:
     - 队列
 ---
 
+[225. 用队列实现栈 - 别一个github的代码](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
 <!-- problem:start -->
 
 # [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues)
 
-[English Version](/solution/0200-0299/0225.Implement%20Stack%20using%20Queues/README_EN.md)
-
+[English Version](README_EN.md)
 ## 题目描述
 
 <!-- description:start -->
